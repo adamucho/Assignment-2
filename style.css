@@ -164,18 +164,20 @@ h4{
   top: 50px;
 }
 
-.twitter{
+#social_media img{
   position: relative;
-  display: inline;
-  top: 70px;
- /* display: inline;*/
-
+  top: 80px;
+  margin: auto;
 }
 
-.facebook{
-  position: relative;
-  display: inline;
+.twitter img{
+  width: 40px;
+  height: auto;
+}
 
+.facebook img{
+  width: 40px;
+  height: auto;
 
 }
 
