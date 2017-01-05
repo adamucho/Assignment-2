@@ -120,9 +120,9 @@ blockquote p{
 }
 
 em{
-  font-style: none;
   font-size: 18px;
-  font-weight: 800px;
+  font-weight: 600;
+  font-style: normal;
 }
 
 aside{
@@ -168,17 +168,26 @@ h4{
   position: relative;
   top: 80px;
   margin: auto;
+
+
 }
 
 .twitter img{
-  width: 40px;
-  height: auto;
+  padding-right: 30px;
+  width: 30px;
+
 }
 
 .facebook img{
-  width: 40px;
-  height: auto;
+   width: 12px;
+}
 
+footer p{
+  position: relative;
+  padding-top: 150px;
+  color: white;
+  font-size: 9px;
+  font-weight: 300;
 }
 
 
